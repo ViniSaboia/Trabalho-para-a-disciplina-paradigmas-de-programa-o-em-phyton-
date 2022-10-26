@@ -1,3 +1,5 @@
+#
+
 print("/tJoão Papo-de-Pescador/n")
 
 peso = float(input("Peso: "))
