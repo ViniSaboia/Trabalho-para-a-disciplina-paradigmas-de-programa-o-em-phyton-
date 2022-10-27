@@ -1,3 +1,5 @@
+# inseri vaiáveis para sexo peso e altura, e com a função if comparei a variável peso ideal. De acordo com a resposta a essa comparação as mensagens serão imprimidas para abaixo, dentro e acima do peso ideal.
+
 sexo = int(input('Escolha: 1- Sexo Masculino / 2- Sexo Feminino: '))
 
 h = float(input('Altura:'))
