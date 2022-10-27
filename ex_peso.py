@@ -1,4 +1,4 @@
-#
+# inseri uma variavel para peso e depois com a função if comparei ao valor do excesso, caso seja maior que o excesso o valor a mais é multiplicado por 4 para calcular a multa.
 
 print("/tJoão Papo-de-Pescador/n")
 
